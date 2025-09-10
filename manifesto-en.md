@@ -1,0 +1,37 @@
+# Manifesto for AI Programming
+
+## Preface
+
+In today's era of rapid development of artificial intelligence technology, AI programming has become an important trend in the field of software development. 
+
+This manifesto aims to elaborate on the core principles, best practices, and future visions of AI programming, provide support for developers, and promote the healthy development of AI programming technology.
+
+## Content
+
+### 1. Goal achievement over demo showcase
+
+Aim to solving practical problems and creating value, rather than showcasing the capability AI models and tools.
+
+### 2. Human-AI collaboration over mutual opposition
+
+Humans guide the direction and collaborate with AI to achieve.
+
+### 3. Embracing changes over sticking to conventions
+
+Actively embrace AI to achieve the paradigm shift from traditional to intelligent programming.
+
+### 4. Clear insight over blind faith in magical effects (magic worship)
+
+Discern the principles, capabilities, and limitations of AI programming to build a rational cognitive system.
+
+### 5. Controllable checkpoints  over blind faith in one-shots 
+ 
+Ensure that the AI programming process is controllable and verifiable.
+
+### Safety and Sustainability Over Reckless Speed
+
+Prefer code quality and system maintainability in AI programming.
+
+---
+
+_latest upated on 2025.09.10 _
