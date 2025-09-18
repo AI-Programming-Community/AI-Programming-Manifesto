@@ -16,7 +16,7 @@ Aim to solve real problems and create value, rather than showcase the capabiliti
 
 Humans guide the direction and collaborate with AI to achieve goals.
 
-### 3. Embracing changes over sticking to conventions
+### 3. Embracing change over sticking to convention
 
 Embrace AI to achieve the paradigm shift from traditional to intelligent programming.
 
@@ -24,11 +24,11 @@ Embrace AI to achieve the paradigm shift from traditional to intelligent program
 
 Discern the principles, capabilities, and limitations of AI programming to build a rational cognitive system.
 
-### 5. Controllable checkpoints  over pray with one-shot
+### 5. Controllable checkpoints  over one-shot gambles
  
 Ensure that the AI programming process is controllable and verifiable.
 
-### 6. Safety and Sustainability Over Reckless Speed
+### 6. Safety and sustainability over Reckless Speed
 
 Prefer code quality and system maintainability in AI programming.
 
