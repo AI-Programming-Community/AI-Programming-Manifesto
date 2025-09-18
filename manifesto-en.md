@@ -28,10 +28,10 @@ Discern the principles, capabilities, and limitations of AI programming to build
  
 Ensure that the AI programming process is controllable and verifiable.
 
-### 6. Safety and sustainability over Reckless Speed
+### 6. Safety and sustainability over reckless speed
 
 Prefer code quality and system maintainability in AI programming.
 
 ---
 
-_latest upated on 2025.09.10 _
+_latest updated on 2025.09.10 _
