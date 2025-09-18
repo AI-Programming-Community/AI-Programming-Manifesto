@@ -10,25 +10,25 @@ This manifesto aims to elaborate on the core principles, best practices, and fut
 
 ### 1. Goal achievement over demo showcase
 
-Aim to solving practical problems and creating value, rather than showcasing the capability AI models and tools.
+Aim to solve real problems and create value, rather than showcase the capabilities of AI models and tools.
 
 ### 2. Human-AI collaboration over mutual opposition
 
-Humans guide the direction and collaborate with AI to achieve.
+Humans guide the direction and collaborate with AI to achieve goals.
 
 ### 3. Embracing changes over sticking to conventions
 
-Actively embrace AI to achieve the paradigm shift from traditional to intelligent programming.
+Embrace AI to achieve the paradigm shift from traditional to intelligent programming.
 
-### 4. Clear insight over blind faith in magical effects (magic worship)
+### 4. Clear insight over blind faith in magic
 
 Discern the principles, capabilities, and limitations of AI programming to build a rational cognitive system.
 
-### 5. Controllable checkpoints  over blind faith in one-shots 
+### 5. Controllable checkpoints  over pray with one-shot
  
 Ensure that the AI programming process is controllable and verifiable.
 
-### Safety and Sustainability Over Reckless Speed
+### 6. Safety and Sustainability Over Reckless Speed
 
 Prefer code quality and system maintainability in AI programming.
 
